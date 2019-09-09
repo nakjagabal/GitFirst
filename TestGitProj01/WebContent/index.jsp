@@ -10,12 +10,10 @@
 	<ul>
 		<li>Git첫번째항목</li>
 		<li>두번째 항목 추가</li>
-<<<<<<< HEAD
-		<li></li>
-		<li>학원에서 작업</li>
-=======
+
 		<li>집에서 작업 추가..ㅋㅋ</li>
->>>>>>> branch 'master' of https://github.com/nakjagabal/GitFirst.git
+		<li>학원에서 작업</li>
+		
 	</ul>
 </body>
 </html>
